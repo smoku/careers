@@ -1,0 +1,3 @@
+<%= for component <- @components do %>
+  <%= raw component %>
+<% end %>
